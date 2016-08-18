@@ -6,7 +6,7 @@
 
 ### Free or open source games
 
-* Dungeons Deep: [html5](http://luboslenco.com/ld/33_dungeons_deep/), [source](https://github.com/luboslenco/ld33)
+* Dungeons Deep: [html5](http://ludumdare.com/compo/ludum-dare-33/?action=preview&uid=23619), [osx](http://luboslenco.com/ld/DungeonsDeepOSX.zip), [source](https://github.com/luboslenco/ld33)
 * kha-pong: [source](https://github.com/dstrekelj/kha-pong)
 * kha-astro-race: [source](https://github.com/dstrekelj/kha-astro-race)
 * kha-basketball: [source](https://github.com/dstrekelj/kha-basketball)
