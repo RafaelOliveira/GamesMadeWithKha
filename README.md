@@ -19,3 +19,4 @@
 * I am not a Monster: [html5](http://ludumdare.com/compo/ludum-dare-33/?action=preview&uid=39859)
 * Game from khaguide (a tutorial): [html5](http://ludamix.com/games/khaguide/), [source](https://github.com/triplefox/khaguide)
 * Plant Designer: [html5](http://ludumdare.com/compo/ludum-dare-33/?action=preview&uid=39859), [source](https://github.com/RafaelOliveira/LD34)
+* bioDigit: [html5](https://melon-not-found.github.io/bioDigit-Kala/cap60/), [source](https://github.com/melon-not-found/bioDigit-Kala)
